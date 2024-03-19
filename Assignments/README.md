@@ -1,4 +1,4 @@
-##bAssignments Folder
+## Assignments Folder
 
 |  #   | Assignment | Assignment Description |
 | :---: |-----------|-------------------------|
